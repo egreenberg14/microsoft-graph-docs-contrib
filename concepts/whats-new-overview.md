@@ -18,6 +18,12 @@ For details about previous updates to Microsoft Graph, see [Microsoft Graph what
 > [!IMPORTANT]
 > Features in _preview_ status are subject to change without notice, and might not be promoted to generally available (GA) status. Don't use preview features in production apps.
 
+## May 2026: New in preview only
+
+### Reports | Identity and access reports
+
+Added the **clientSessionId** property to the [signIn](/graph/api/resources/signin?view=graph-rest-beta&preserve-view=true) resource. This property returns the unique identifier of the client session associated with the sign-in.
+
 ## April 2026: New and generally available
 
 ### Applications
